@@ -61,3 +61,8 @@ Verification of multi-module design hierarchy in Verilog.
 Vivado Design Suite,
 Verilog HDL,
 Behavioral Simulation.
+
+**✍️ Author**
+**Harish Chittaragi**  
+VLSI Design & Verification Enthusiast  
+[GitHub: harishchittaragi](https://github.com/harishchittaragi)
